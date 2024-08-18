@@ -1,0 +1,24 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <PreferenceCategory app:title="@string/theme_header">
+
+        <SwitchPreferenceCompat
+            app:defaultValue="false"
+            app:key="DarkMode"
+            app:summaryOff="@string/summary_dark_mode_off"
+            app:summaryOn="@string/summary_dark_mode_on"
+            app:title="@string/title_dark_mode" />
+
+    </PreferenceCategory>
+    <PreferenceCategory app:title="@string/lang_header">
+
+        <SwitchPreferenceCompat
+            app:key="Language"
+            app:defaultValue="true"
+            app:title="@string/key_Language_mode"
+            app:useSimpleSummaryProvider="true"
+            app:summaryOff="@string/summary_en_lang_off"
+            app:summaryOn="@string/summary_en_mode_on" />
+    </PreferenceCategory>
+</PreferenceScreen>

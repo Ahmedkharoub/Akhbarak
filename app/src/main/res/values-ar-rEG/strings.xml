@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أخبارك</string>
+    <string name="Latest_news">"أحدث الأخبار "</string>
+    <string name="Error">"هناك خطأ "</string>
+    <string name="title_dark_mode">الوضع المظلم</string>
+    <string name="summary_dark_mode_on">الوضع المظلم مفعل</string>
+    <string name="summary_dark_mode_off">الوضع المظلم غير مفعل</string>
+    <string name="key_dark_mode">الوضع المظلم</string>
+    <string name="summary_en_lang_off" >تم تفعيل اللغة العربية</string>
+    <string name="summary_en_mode_on">تم تفعيل اللغة الانجليزية</string>
+    <string name="key_Language_mode">تبديل لغة البرنامج</string>
+</resources>

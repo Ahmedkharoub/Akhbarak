@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Akhbarak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="Error">There a Error!</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+    <string name="Latest_news">Latest news</string>
+
+    <!-- Preference Titles -->
+    <string name="lang_header" translatable="false">Language</string>
+    <string name="theme_header" translatable="false">Theme</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Switch Language</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+    <string name="key_dark_mode">Dark Mode</string>
+    <string name="key_Language_mode">Switch Language</string>
+    <string name="summary_dark_mode_off">Dark Mode Off</string>
+    <string name="summary_dark_mode_on">Dark Mode On</string>
+    <string name="title_dark_mode">Dark Mode</string>
+    <string name="summary_en_lang_off">English Mode Off</string>
+    <string name="summary_en_mode_on">English Mode On</string>
+
+</resources>
